@@ -2,29 +2,29 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Saad",
+  title: "Hi all 👋 I'm Othniel",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+    "A passionate Full Stack Web Developer 🚀 having an experience of building Web, Mobile and Desktop applications with JavaScript / Reactjs / Nodejs / Electronjs and some other cool libraries and frameworks",
+  //resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/othnieladjei",
+  //linkedin: "https://www.linkedin.com/in/saadpasta/",
+  gmail: "oheneadjei.dev@gmail.com",
+  //gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/othnieladjei"
 };
 
 const skillsSection = {
   /* Your Skills Section  */
-  title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  title: "What I do",
+  subTitle: "Full Stack Developer Who Wants To Explore Every Tech Stack",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
+    "⚡ Develop highly interactive Front End / User Interfaces for your web, mobile and desktop applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    "⚡ Integration of third party services such as Firebase/ AWS"
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
@@ -86,17 +86,17 @@ const skillsSection = {
   ]
 };
 
-const openSource = {
+/*const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  /*githubConvertedToken: "Your Github Converted Token",
+  githubUserName: "othnieladjei"
 };
 
 const bigProjects = {
   /* Some Big Projects You have worked with your company */
-  title: "Big Projects",
+  /*title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
@@ -110,10 +110,10 @@ const bigProjects = {
   ]
 };
 
-const achievementSection = {
+/*const achievementSection = {
   /* Your Achievement Section Include Your Certification Talks and More */
 
-  title: "Achievements And Certifications 🏆 ",
+  /*title: "Achievements And Certifications 🏆 ",
   subtitle: "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
 
   achivementsCards: [
@@ -150,7 +150,7 @@ const achievementSection = {
 const blogSection = {
   /* Blogs Section */
 
-  title: "Blogs",
+  /*title: "Blogs",
   subtitle: "With Love for Developing cool stuff. i love to write and teach others what i have learned",
 
   blogs: [
@@ -194,13 +194,13 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
-};
+};*/
 
 const contactInfo = {
   title: "Contact Me ☎️",
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "(+233) 0243-633-538",
+  email_address: "oheneadjei.dev@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
